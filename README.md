@@ -1,1 +1,2 @@
 # midterm
+hi im Tommy
