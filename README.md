@@ -1,4 +1,4 @@
-СLoVer team<br>
+СLoVer team🍀<br>
 Our project reveals the topic of graph theory and it is divided in 4 parts.<br>
 1 part - Introduction of our team members<br>
 2 part - Graph Theory introduction(types of graph and their characteristics)<br>
