@@ -13,3 +13,5 @@ Team member and his/her correspond slide: 🖤 <br>
 
 At our presentation, we get acquainted with the program of our project and with each member of our team. We learn: what are graphs, get acquainted with the basic terms. We visually describe and show the types of graphs and their characteristic properties with many examples of their application from real life. 
 We also provided implementation code in Java of our 2 graph representations(adjacency matrix, adjacency list). And cover where do we widely use graphs.
+
+ENJOY😇😊
