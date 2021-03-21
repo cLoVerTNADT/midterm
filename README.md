@@ -1,3 +1,24 @@
+1-4 -----------------------------------------------------Nazerke
+<img width="1074" alt="1" src="https://user-images.githubusercontent.com/78708473/111905126-60cfc280-8a74-11eb-9350-144fb2d2d33e.png">
+<img width="1074" alt="2" src="https://user-images.githubusercontent.com/78708473/111905129-63cab300-8a74-11eb-8e6f-84308aad60ef.png">
+<img width="1074" alt="3" src="https://user-images.githubusercontent.com/78708473/111905160-8b218000-8a74-11eb-8bfa-9b1d4449401f.png">
+<img width="1074" alt="4" src="https://user-images.githubusercontent.com/78708473/111905166-8d83da00-8a74-11eb-87b5-9567d02402c0.png">
+
+9-13 ----------------------------------------------------Nazerke
+<img width="1074" alt="10" src="https://user-images.githubusercontent.com/78708473/111905240-d176df00-8a74-11eb-979b-3497c78fb416.png">
+<img width="1074" alt="11" src="https://user-images.githubusercontent.com/78708473/111905241-d340a280-8a74-11eb-98f3-7a96570c0276.png">
+<img width="1074" alt="12" src="https://user-images.githubusercontent.com/78708473/111905242-d471cf80-8a74-11eb-8a69-9e2ed315471a.png">
+<img width="1074" alt="13" src="https://user-images.githubusercontent.com/78708473/111905243-d63b9300-8a74-11eb-8534-7c080ebac5b3.png">
+
+27-28 ---------------------------------------------------Nazerke
+<img width="1074" alt="27" src="https://user-images.githubusercontent.com/78708473/111905394-9a54fd80-8a75-11eb-8e9e-c85185989753.png">
+<img width="1439" alt="28" src="https://user-images.githubusercontent.com/78708473/111905892-2bc56f00-8a78-11eb-9acc-7b1dcc0cf3bc.png">
+
+
+
+
+
+
 ---------------------------------------------------- Temirlan
 ![image](https://user-images.githubusercontent.com/68343687/111901079-062c6b80-8a60-11eb-89fb-b034229a667f.png)
 ![image](https://user-images.githubusercontent.com/68343687/111901086-0b89b600-8a60-11eb-9dcf-76d1e3a4cfd7.png)
