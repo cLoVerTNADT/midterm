@@ -14,10 +14,17 @@
 <img width="1074" alt="27" src="https://user-images.githubusercontent.com/78708473/111905394-9a54fd80-8a75-11eb-8e9e-c85185989753.png">
 <img width="1439" alt="28" src="https://user-images.githubusercontent.com/78708473/111905892-2bc56f00-8a78-11eb-9acc-7b1dcc0cf3bc.png">
 
+---------------------------------------------------- Temirlan
+![1](https://user-images.githubusercontent.com/78614334/111911845-eeb5a880-8a88-11eb-99a0-a274476ef346.png)
+![2](https://user-images.githubusercontent.com/78614334/111911932-46ecaa80-8a89-11eb-8359-cb69669b1464.png)
+![3](https://user-images.githubusercontent.com/78614334/111911987-7dc2c080-8a89-11eb-95c5-7aa69db17a73.png)
 
-
-
-
+----------------------------------------------------------Saya
+![4](https://user-images.githubusercontent.com/78614334/111912029-9f23ac80-8a89-11eb-81b9-b6204bdd3609.png)
+![5](https://user-images.githubusercontent.com/78614334/111912054-c24e5c00-8a89-11eb-9394-6e6ae375b17f.png)
+![6](https://user-images.githubusercontent.com/78614334/111912084-e4e07500-8a89-11eb-95f8-4a1b7baa599a.png)
+![7](https://user-images.githubusercontent.com/78614334/111912114-05103400-8a8a-11eb-9f87-1a3e39bc6ebc.png)
+![8](https://user-images.githubusercontent.com/78614334/111912148-2ec95b00-8a8a-11eb-9249-81a797aa2535.png)
 
 ---------------------------------------------------- Temirlan
 ![image](https://user-images.githubusercontent.com/68343687/111901079-062c6b80-8a60-11eb-89fb-b034229a667f.png)
