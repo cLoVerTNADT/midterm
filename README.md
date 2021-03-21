@@ -1,10 +1,10 @@
 СLoVer team🍀<br>
 Our project reveals the topic of graph theory and it is divided in 4 parts.<br>
-1 part - Introduction of our team members<br>
-2 part - Graph Theory introduction(types of graph and their characteristics)<br>
-3 part - Representation of Graph using AdjMatrix and AdjList Graph representations<br>
-4 part - Application<br>
-Team member and his/her correspond slide:<br>
+✅1 part - Introduction of our team members<br>
+✅2 part - Graph Theory introduction(types of graph and their characteristics)<br>
+✅3 part - Representation of Graph using AdjMatrix and AdjList Graph representations<br>
+✅4 part - Application<br><br>
+Team member and his/her correspond slide: 🖤 <br>
 1-4, 9-13, 29-30 - Nazerke Kulan(190103223)<br>
 14-28 - Dilyara Kdyrova(190103436)<br>
 31-32, 39-44 - Temirlan Kadyr(190103490)<br>
